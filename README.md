@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-I am a results-driven Full-stack Developer with over 3 years of academic and hands-on experience in web development and software engineering[cite: 7]. [cite_start]I'm skilled in building scalable applications from the ground up, with a strong background in both back-end and front-end technologies[cite: 9]. [cite_start]I'm a dedicated team player and a fast learner, always passionate about improving my skills[cite: 10].
+I am a results-driven Full-stack Developer with over 3 years of academic and hands-on experience in web development and software engineering. I'm skilled in building scalable applications from the ground up, with a strong background in both back-end and front-end technologies. I'm a dedicated team player and a fast learner, always passionate about improving my skills.
 
--   [cite_start]🎓 I'm currently pursuing a **Master of Information Technology** at INTI International University[cite: 38, 39].
--   [cite_start]💻 My professional experience includes IT system administration, server maintenance, and full-stack development[cite: 7, 20, 30].
--   [cite_start]📫 You can reach me at **kyawhsuthway97@gmail.com**[cite: 4].
+-   🎓 I'm currently pursuing a **Master of Information Technology** at INTI International University.
+-   💻 My professional experience includes IT system administration, server maintenance, and full-stack development.
+-   📫 You can reach me at **kyawhsuthway97@gmail.com**.
 
 ---
 
