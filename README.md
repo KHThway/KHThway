@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm Kyaw Hsu Thway!
 <p align="left">
-  <a href="https://www.linkedin.com/in/kyaw-hsu-thway-582b38264/" target="_blank">
+  <a href="https://www.linkedin.com/in/kyaw-hsu-thway-582638264/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://nickprotfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-46BC99?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
