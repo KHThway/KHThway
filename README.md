@@ -56,11 +56,3 @@ Here are some of the technologies I work with:
   <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KHThway&show_icons=true&theme=radical" alt="Kyaw Hsu Thway's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHThway&layout=compact&theme=radical" alt="Top Languages" />
-</p>
